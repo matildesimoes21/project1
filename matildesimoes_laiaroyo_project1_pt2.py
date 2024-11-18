@@ -17,6 +17,7 @@ import altair as alt
 import glob
 from vega_datasets import data
 import requests
+import streamlit as st
 
 # to execute the following cells you should have all the files included in the zip uploded in collab !
 # it is recomendable to execute JUST the part 2, as this first part takes around 10 minuts and changes are saved in CSVs.
